@@ -1,3 +1,5 @@
+https://chat.deepseek.com/a/chat/s/2a2fcc2e-f718-47c5-ad92-e5b844847c9d
+
 # DMS TR-069 Parser
 
 Скрипты для сбора статистики с абонентских устройств (CPE) через TR-069 API системы DMS.
@@ -106,4 +108,5 @@ GetListOfCPEs	Получение списка всех CPE
 GetParameterValues	CPU, модель, версия, клиенты, Wi-Fi stats, WAN common
 LanPortsStatistics	Ошибки на LAN-портах
 GetWifiDetails	Статус 5 ГГц
+
 WanInterface	WAN-трафик и ошибки
